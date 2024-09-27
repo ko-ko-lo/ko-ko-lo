@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on **Figma Plugin Development** or any projects that combine Design and Software Engineering principles.
 - 📫 Based in Germany.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: "The more I learn, the less I know!" – Always exploring new ways to challenge myself and grow.
-
+- ⚡ Fun fact: "The more I learn, the less I know!"
 <!---
 ko-ko-lo/ko-ko-lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
