@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denise (@ko-ko-lo)
 - 👀 I’m interested in Software Development and UX/UI.
-- 🌱 I'm currently working on a fun project, an Ukulele Tuner, and a heart project close to my soul: a platform for Yin-Style Yoga and Breathing Techniques.
+- 🌱 I'm currently working on a fun project, an Ukulele Tuner, and a heart project close to my soul: a platform for Meditation, Breathwork and Yin-Style Yoga.
 - 💞️ I’m looking to collaborate on any projects that combine Software Engineering and Design principles.
 - 📫 Based in Germany.
 - ⚡ Fun fact: "JavaScript and I share a special type of undefined."
